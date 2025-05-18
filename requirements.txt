@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+chromadb
+faiss-cpu
+langchain_google_genai
+langchain-community
+pdf2image
+ipython
+python-docx
+openpyxl
+Pillow
+PyPDF2
